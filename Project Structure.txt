@@ -1,6 +1,16 @@
 netlify-tests/
 ├── pages/
+│   ├── CommonPage.ts
+│   ├── HomePage.ts
+│   └── SitemapPage.ts
 ├── tests/
+│   ├── leadCaptureForm.spec.ts
+│   ├── linkVerification.spec.ts
+│   └── sitemapVerification.spec.ts
+├── test-results/
+├── node_modules/
+├── package.json
+├── package-lock.json
 ├── playwright.config.ts
 ├── tsconfig.json
-└── package.json
+└── README.md
