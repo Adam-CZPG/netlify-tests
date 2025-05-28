@@ -1,0 +1,6 @@
+netlify-tests/
+├── pages/
+├── tests/
+├── playwright.config.ts
+├── tsconfig.json
+└── package.json
